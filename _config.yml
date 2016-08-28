@@ -1,0 +1,10 @@
+title: Segmentation fault
+email: himdel@seznam.cz
+description: >
+  Segmentation fault - himdel's blog
+baseurl: "/blog"
+url: "https://himdel.github.io"
+github_username: himdel
+
+markdown: kramdown
+theme: minima
