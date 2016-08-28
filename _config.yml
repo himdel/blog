@@ -8,3 +8,4 @@ github_username: himdel
 
 markdown: kramdown
 theme: minima
+permalink: "/:year-:month-:day-:title"
