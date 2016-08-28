@@ -1,7 +1,9 @@
-# Migrating request-tracker (from rt-3.4.5 on mysql to rt-3.8.2 on postgres)
-
-(tags: db, mysql, perl, postgresql, request-tracker, rt, solnet)
-
+---
+layout: post
+title: "Migrating request-tracker (from rt-3.4.5 on mysql to rt-3.8.2 on postgres)"
+date: 2009-12-04
+categories: db mysql perl postgresql request-tracker rt solnet
+---
 
 I've recently had the "pleasure" of upgrading our company's request tracker system and migrating it from MySQL to Postgres and I'd like to share what I found out.
 

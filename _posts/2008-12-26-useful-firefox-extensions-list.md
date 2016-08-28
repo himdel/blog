@@ -1,7 +1,9 @@
-# useful firefox extensions list
-
-(tags: addons, browser, extensions, ff, firefox, greasemonkey)
-
+---
+layout: post
+title: "useful firefox extensions list"
+date: 2008-12-26
+categories: addons browser extensions ff firefox greasemonkey
+---
 
 These are all the firefox extensions I'm currently using .. and I'd be lost without many of them.
 Enjoy! :)

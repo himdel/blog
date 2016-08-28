@@ -1,7 +1,9 @@
-# Deploying node.js with apache & daemontools
-
-(tags: apache, daemon, daemontools, debian, deploy, git, hook, init, logger, mod_proxy, nodejs, proxypass, syslog, virtualhost)
-
+---
+layout: post
+title: "Deploying node.js with apache & daemontools"
+date: 2013-07-24
+categories: apache daemon daemontools debian deploy git hook init logger mod_proxy nodejs proxypass syslog virtualhost
+---
 
 So, I've started developing a <a href="http://nodejs.org/">node.js</a> app and I have to deploy it somehow.
 

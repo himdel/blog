@@ -1,7 +1,9 @@
-# useful greasemonkey scripts list
-
-(tags: browser, ff, firefox, greasemonkey, userscripts)
-
+---
+layout: post
+title: "useful greasemonkey scripts list"
+date: 2008-12-26
+categories: browser ff firefox greasemonkey userscripts
+---
 
 These are all the greasemonkey scripts I'm currently using. Greasemonkey is a firefox addon that allows you to have custom scripts that change the behaviour of any site. Most of them are rather useful so enjoy! :)
 

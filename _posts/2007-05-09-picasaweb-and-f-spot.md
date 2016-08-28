@@ -1,5 +1,8 @@
-# picasaweb and f-spot
-
+---
+layout: post
+title: "picasaweb and f-spot"
+date: 2007-05-09
+---
 
 I've tried out Picasa some time ago, I found it enjoyable but rather impractical, I usually know where my pictures are, not when. One feature that's great is that you can upload albums to Picasa Web Albums (http://picasaweb.google.com). I'd use Flickr (http://www.flickr.com) but hey, Yahoo things feel uncomfortable.
 I've just come from a trip to Italy so I wanted to upload some photos. Unfortunately, the current linux version of Picasa doesn't support this feature yet. After some googling I found F-Spot (http://www.f-spot.org) does. I've been meaing to give it a try anyway so I installed it.

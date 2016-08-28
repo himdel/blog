@@ -1,7 +1,9 @@
-# claws-mail trayicon patch
-
-(tags: claws, linux, mail, patch, sylpheed, trayicon)
-
+---
+layout: post
+title: "claws-mail trayicon patch"
+date: 2007-08-08
+categories: claws linux mail patch sylpheed trayicon
+---
 
 My mailer is claws-mail (formerly known as sylpheed-claws, a fork of sylpheed) and I love it.
 But there's one thing I miss: I can't make the trayicon plugin count only messages in the folders I want instead of all folders. (So it'd tell me about new messages in inbox + important but not in newsgroups and spam.)

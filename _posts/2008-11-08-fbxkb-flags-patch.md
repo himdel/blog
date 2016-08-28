@@ -1,7 +1,9 @@
-# fbxkb flags patch
-
-(tags: fbxkb, keyboard, linux, patch, X)
-
+---
+layout: post
+title: "fbxkb flags patch"
+date: 2008-11-08
+categories: fbxkb keyboard linux patch X
+---
 
 My primary keyboard layout is US (qwerty), but from time to time, one needs a different one (usually cz_qwerty or hu for me). So I have this handy line in my ~/.xinitrc that let's me switch to the alternate layout by using Right Alt:
 setxkbmap -option grp:switch,grp:alts_toggle,grp_led:scroll us,cz_qwerty
